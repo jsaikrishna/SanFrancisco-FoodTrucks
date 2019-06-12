@@ -6,7 +6,7 @@ For Example, if you are running the Application on November, 20th 11:12 am, then
 * This Application is a command line based Application, in which the Available FoodTrucks will list out in command line from where the Application runs.
 
 
-* Follow the command below to build the project and also to generate the jar file whhich contains all dependencies.
+* Follow the command below to build the project and also to generate the jar file which contains all dependencies.
 
 ```
 mvn clean compile assembly:single
