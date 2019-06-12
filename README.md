@@ -1,6 +1,6 @@
 # SanFrancisco-FoodTrucks
 
-* This Project lists out the Open Food Trucks in San Francisco at the time of running the Application.
+* This Application lists out the Open Food Trucks in San Francisco at the time of running the Application.
 For Example, if you are running the Application on November, 20th 11:12 am, then the application lists out the open Food Trucks at 11:12 am, November, 20th.
 
 * This Application is a command line based Application, in which the Available FoodTrucks will list out in command line from where the Application runs.
